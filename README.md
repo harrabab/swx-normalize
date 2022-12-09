@@ -1,2 +1,2 @@
 # swx-normalize
-test1
+test2
