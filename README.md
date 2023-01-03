@@ -1,2 +1,2 @@
 # swx-normalize
-test2 ooo
+test2 -abc
